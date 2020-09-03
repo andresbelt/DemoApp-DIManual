@@ -14,7 +14,7 @@ Example android with MVVM and Retrofit with Room, architecture repository with c
 Clone this repository and import into **Android Studio**
 
 ```bash
-git clone https://github.com/andresbelt/MuyTest.git
+git clone https://github.com/andresbelt/DemoApp-DIManual.git
 ```
 
 
@@ -27,7 +27,7 @@ git clone https://github.com/andresbelt/MuyTest.git
 
 ## Maintainers
 
-* **Andres Beltran** - [MuyTest](https://github.com/andresbelt/MuyTest).
+* **Andres Beltran** - [MuyTest](https://github.com/andresbelt/DemoApp-DIManual).
 
 ## License
 

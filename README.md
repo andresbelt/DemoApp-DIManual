@@ -1,4 +1,4 @@
-# MuyTest
+# Example with MVVM and Dependency Injection Manual
 
 Example android with MVVM and Retrofit with Room, architecture repository with cache and Injection Manual
 
